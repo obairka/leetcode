@@ -1,3 +1,8 @@
+# LeetCode Premium
+
+[Google Sheet](https://docs.google.com/spreadsheets/d/1yIhR29RzkFaXZggH0jPUCNMuYsz3OPbsEjTKLXbI_gE/edit?usp=sharing)
+
+
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
 | <span id="1045">1045</span> | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products "买下所有产品的客户") 🔒 | [MySQL](problems/customers-who-bought-all-products) | Medium |
